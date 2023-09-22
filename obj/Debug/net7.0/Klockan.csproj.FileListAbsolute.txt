@@ -1,0 +1,14 @@
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.AssemblyInfoInputs.cache
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.AssemblyInfo.cs
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.csproj.CoreCompileInputs.cache
+C:\Users\menai\source\repos\Klockan\bin\Debug\net7.0\Klockan.exe
+C:\Users\menai\source\repos\Klockan\bin\Debug\net7.0\Klockan.deps.json
+C:\Users\menai\source\repos\Klockan\bin\Debug\net7.0\Klockan.runtimeconfig.json
+C:\Users\menai\source\repos\Klockan\bin\Debug\net7.0\Klockan.dll
+C:\Users\menai\source\repos\Klockan\bin\Debug\net7.0\Klockan.pdb
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.dll
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\refint\Klockan.dll
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.pdb
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\Klockan.genruntimeconfig.cache
+C:\Users\menai\source\repos\Klockan\obj\Debug\net7.0\ref\Klockan.dll
